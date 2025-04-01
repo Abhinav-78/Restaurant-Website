@@ -1,7 +1,7 @@
 <div align="center">
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Vijeta - Restaurant Website</h2>
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Vijeta Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
